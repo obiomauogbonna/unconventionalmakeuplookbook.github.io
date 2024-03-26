@@ -234,7 +234,25 @@ html {
 	left:2093px;
 }
 
-#vertical-line6{
+#vertical-line4{
+	background-color: black;
+	height:420px;
+	width: 40.3px;
+	position: absolute;
+	top: 0px;
+	left: 547px;
+}
+
+#horizontal-line5{
+	background-color: black;
+	height:33px;
+	width: 3500px;
+	position: absolute;
+	top: 797px;
+	left:2093px;
+}
+
+#vertical-line5{
 	background-color: black;
 	height:420px;
 	width: 41.5px;
