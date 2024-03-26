@@ -255,10 +255,10 @@ html {
 #vertical-line5{
 	background-color: black;
 	height:420px;
-	width: 41.5px;
+	width: 41px;
 	position: absolute;
 	top: 0px;
-	left: 1099px;
+	left: 1102px;
 }
 
 #horizontal-line6{
@@ -266,7 +266,7 @@ html {
 	height:32px;
 	width: 3500px;
 	position: absolute;
-	top: 749.244px;
+	top: 753px;
 	left:2082px;
 
 }
