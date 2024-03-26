@@ -238,10 +238,10 @@ html {
 #horizontal-line5{
 	background-color: black;
 	height:33px;
-	width: 3100px;
+	width: 2700px;
 	position: absolute;
 	top: 730px;
-	left: 2793px;
+	left: 3193px;
 }
 
 #vertical-line5{
@@ -250,7 +250,7 @@ html {
 	width: 39px;
 	position: absolute;
 	top: 0px;
-	left: 1100px;
+	left: 1102px;
 }
 
 #horizontal-line6{
